@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 feature 2m
 
 modified 3
+=======
+feature 2
+>>>>>>> 3b312e4 (added 2nd feature)
 
